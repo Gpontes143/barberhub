@@ -1,4 +1,4 @@
-# 💈 BarberConnect
+# 💈 Barberhub
 
 Projeto acadêmico feito por estudantes de Engenharia da Computação, com foco em prática de desenvolvimento web fullstack.
 
