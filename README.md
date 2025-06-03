@@ -32,5 +32,7 @@ $ venv\Scripts\activate    # Windows
 # Instalar dependências
 $ pip install -r requirements.txt
 
+#Salvar dependências
+$ pip freeze > requirements.txt
 # Rodar servidor
 $ python manage.py runserver
